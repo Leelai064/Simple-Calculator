@@ -1,0 +1,6 @@
+/* Equal button */
+/* Issue with html tr for equals makes the first column unequal */
+#equals{
+    position: relative;
+    left: 180px;
+}
